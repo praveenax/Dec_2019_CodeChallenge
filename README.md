@@ -3,6 +3,10 @@
 
 This repo is dedicated for all the #coders who are participating in the Code Challenge.
 
+#Update:
+##Challenge 1:
+Your Input is a 1000 words. Your output should be a array of {Questions + Answers}. Use NLP to generate question from the given prose input. 
+
 
 ![alt text](challenge.gif)
 
