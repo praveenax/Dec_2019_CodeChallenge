@@ -4,8 +4,12 @@
 This repo is dedicated for all the #coders who are participating in the Code Challenge.
 
 #Update:
-##Challenge 1:
-Your Input is a 1000 words. Your output should be a array of {Questions + Answers}. Use NLP to generate question from the given prose input. 
+##Challenge 1: NLP + ML [High Difficulty]
+Your Input is a 1000 words/prose. Your output should be a array of {Questions + Answers}. Use NLP to generate question from the given prose input. Just think Comprehensive Questioning but in Reverse!
+
+##Challenge 2: NLP [Low Difficulty]
+Your Input is a sentence/command. Your output should be a response for the sentence/command. You can use any language, library. But my recommendation is to Use Python + Rasa NLP to generate absolutely original chat client/app.
+
 
 
 ![alt text](challenge.gif)
